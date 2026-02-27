@@ -2,6 +2,9 @@
 
 This simulation models neutrons traveling through a multi-region slab consisting of Water ($H_2O$) and Graphite ($C_{12}$), employing energy-dependent cross-sections and advanced variance reduction techniques.
 
+
+<img width="1211" height="749" alt=" Track of first 100 neutrons simulated." src="https://github.com/user-attachments/assets/27b94e14-c877-4e39-a54d-209887939c71" />
+
 ## 1. Project Overview
 
 The simulation tracks the "history" of neutrons from a source at the origin ($x=0$) as they travel through:
